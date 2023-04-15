@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenhuuchi3006" alt="nguyenhuuchi3006" /></a> </p>
 
-- 🔭 I’m currently working on **bong-da-phui**
+- 🔭 I’m currently working on **Dipro - DX**
 
 - 🌱 I’m currently learning **Microservice with Node.js**
 
